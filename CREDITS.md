@@ -33,6 +33,4 @@
   not identified in the supplied folder metadata. None of these mods is included
   in this source distribution, and these credits do not imply endorsement.
 
-Implementation and investigation were assisted by OpenAI Codex. The repository
-owner should choose their preferred project name, author attribution, and license
-before publication.
+Implementation and investigation were assisted by OpenAI Codex. 
