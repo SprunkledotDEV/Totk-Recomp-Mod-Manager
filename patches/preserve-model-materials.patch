@@ -1,0 +1,17 @@
+diff --git a/TkSharp.Merging/Bfres/BfresMcProcessor.cs b/TkSharp.Merging/Bfres/BfresMcProcessor.cs
+index 2d7ac60..a4b01c8 100644
+--- a/TkSharp.Merging/Bfres/BfresMcProcessor.cs
++++ b/TkSharp.Merging/Bfres/BfresMcProcessor.cs
+@@ -23,8 +23,10 @@ public sealed class BfresMcProcessor(ITkRom rom)
+                 return null;
+             }
+ 
+-            var changed = BfresCleaner.RemoveUnusedMaterials(resFile);
+-            changed |= BfresUpdater.Apply(resFile, rom);
++            // Recomp compatibility: materials not referenced by mesh shapes may
++            // still be accessed by game code (for example the player's eyes).
++            // Keep the author's material table and its indices intact.
++            var changed = BfresUpdater.Apply(resFile, rom);
+ 
+             if (!changed) {
+                 return null;

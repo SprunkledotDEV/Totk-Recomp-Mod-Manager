@@ -1,0 +1,170 @@
+[
+  {
+    "package": "BfresLibrary/1.6.0",
+    "authors": "KillzXGaming and Syroot. (Updated by ArchLeaders)",
+    "license": "LICENSE.txt",
+    "license_type": "file",
+    "licenseUrl": "https://aka.ms/deprecateLicenseUrl",
+    "projectUrl": "https://github.com/KillzXGaming/BfresLibrary"
+  },
+  {
+    "package": "BsDiff/1.1.0",
+    "authors": "Logos Bible Software",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/LogosBible/bsdiff.net"
+  },
+  {
+    "package": "CommunityToolkit.HighPerformance/8.4.0",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/CommunityToolkit/dotnet"
+  },
+  {
+    "package": "CommunityToolkit.Mvvm/8.4.0",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/CommunityToolkit/dotnet"
+  },
+  {
+    "package": "LanguageExt.Core/4.4.9",
+    "authors": "Paul Louth",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/louthy/language-ext"
+  },
+  {
+    "package": "MessageStudio/1.1.1",
+    "authors": "ArchLeaders",
+    "license": "AGPL-3.0-or-later",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/AGPL-3.0-or-later",
+    "projectUrl": "https://github.com/EPD-Libraries/MessageStudio"
+  },
+  {
+    "package": "Microsoft.Bcl.AsyncInterfaces/7.0.0",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://dot.net/"
+  },
+  {
+    "package": "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.3",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://dot.net/"
+  },
+  {
+    "package": "Microsoft.Extensions.Logging.Abstractions/10.0.3",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://dot.net/"
+  },
+  {
+    "package": "Newtonsoft.Json/13.0.3",
+    "authors": "James Newton-King",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://www.newtonsoft.com/json"
+  },
+  {
+    "package": "Revrs/2.1.1",
+    "authors": "ArchLeaders",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/ArchLeaders/Revrs"
+  },
+  {
+    "package": "RstbLibrary/1.0.2",
+    "authors": "ArchLeaders",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/EPD-Libraries/RstbLibrary"
+  },
+  {
+    "package": "SarcLibrary/3.3.4",
+    "authors": "ArchLeaders",
+    "license": "AGPL-3.0-or-later",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/AGPL-3.0-or-later",
+    "projectUrl": "https://github.com/EPD-Libraries/SarcLibrary"
+  },
+  {
+    "package": "SharpCompress/0.49.1",
+    "authors": "Adam Hathcock",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/adamhathcock/sharpcompress"
+  },
+  {
+    "package": "SharpZipLib/1.4.2",
+    "authors": "ICSharpCode",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/icsharpcode/SharpZipLib"
+  },
+  {
+    "package": "System.IO.Hashing/10.0.3",
+    "authors": "Microsoft",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://dot.net/"
+  },
+  {
+    "package": "Tkmm.BymlLibrary/1.2.3",
+    "authors": "TKMM-Team",
+    "license": "AGPL-3.0-or-later",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/AGPL-3.0-or-later",
+    "projectUrl": "https://github.com/TKMM-Team/Tkmm.BymlLibrary"
+  },
+  {
+    "package": "Ulid/1.4.1",
+    "authors": "Cysharp",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/Cysharp/Ulid"
+  },
+  {
+    "package": "VYaml/0.28.1",
+    "authors": "hadashiA",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/hadashiA/VYaml"
+  },
+  {
+    "package": "VYaml.Annotations/0.28.1",
+    "authors": "hadashiA",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/hadashiA/VYaml"
+  },
+  {
+    "package": "ZstdSharp.Port/0.8.7",
+    "authors": "Oleg Stepanischev",
+    "license": "MIT",
+    "license_type": "expression",
+    "licenseUrl": "https://licenses.nuget.org/MIT",
+    "projectUrl": "https://github.com/oleg-st/ZstdSharp"
+  }
+]

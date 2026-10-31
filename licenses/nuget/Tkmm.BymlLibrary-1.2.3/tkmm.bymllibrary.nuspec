@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Tkmm.BymlLibrary</id>
+    <version>1.2.3</version>
+    <authors>TKMM-Team</authors>
+    <license type="expression">AGPL-3.0-or-later</license>
+    <licenseUrl>https://licenses.nuget.org/AGPL-3.0-or-later</licenseUrl>
+    <icon>./Icon.png</icon>
+    <readme>./Readme.md</readme>
+    <projectUrl>https://github.com/TKMM-Team/Tkmm.BymlLibrary</projectUrl>
+    <description>Modern BYML IO library written in managed C#. Supports versions 2 to 7.
+
+Adds additional BYML types used for changelogs.</description>
+    <tags>binary-yaml byml byaml yml zeldamods epd totk botw byml-v7</tags>
+    <repository type="git" url="https://github.com/TKMM-Team/Tkmm.BymlLibrary" commit="6f6ac2d38410d8e797262b7132fde08982938e53" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Revrs" version="1.0.6" exclude="Build,Analyzers" />
+        <dependency id="VYaml" version="0.28.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

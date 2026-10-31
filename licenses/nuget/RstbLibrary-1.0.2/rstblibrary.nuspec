@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>RstbLibrary</id>
+    <version>1.0.2</version>
+    <authors>ArchLeaders</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>./Icon.png</icon>
+    <readme>./Readme.md</readme>
+    <projectUrl>https://github.com/EPD-Libraries/RstbLibrary</projectUrl>
+    <description>Simple Resource Size Table (RSTB/RESTBL) IO library written in modern C#</description>
+    <tags>zeldamods epd totk botw rstb restbl resource-size-table rsizetable</tags>
+    <repository type="git" url="https://github.com/EPD-Libraries/RstbLibrary" commit="926fcd2b9ef1643dd0f9603e84bd9b48138943ad" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Revrs" version="1.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MessageStudio</id>
+    <version>1.1.1</version>
+    <authors>ArchLeaders</authors>
+    <license type="expression">AGPL-3.0-or-later</license>
+    <licenseUrl>https://licenses.nuget.org/AGPL-3.0-or-later</licenseUrl>
+    <icon>./Icon.png</icon>
+    <readme>./Readme.md</readme>
+    <projectUrl>https://github.com/EPD-Libraries/MessageStudio</projectUrl>
+    <description>Modern implementation of (some) EPD MessageStudio file formats written in managed C#</description>
+    <tags>msbt zeldamods message-studio totk botw</tags>
+    <repository type="git" url="https://github.com/EPD-Libraries/MessageStudio" commit="055702a8723ef260c470eead8e4448b194ad5774" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="CommunityToolkit.HighPerformance" version="8.2.2" exclude="Build,Analyzers" />
+        <dependency id="Revrs" version="1.0.5" exclude="Build,Analyzers" />
+        <dependency id="VYaml" version="0.25.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

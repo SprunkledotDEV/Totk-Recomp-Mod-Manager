@@ -1,0 +1,8 @@
+{
+  "TkSharp": {
+    "repository": "https://github.com/TKMM-Team/TkSharp",
+    "commit": "ee83fb1e70541600fe7a44a376ffe4bd3486f622",
+    "patch": "patches/preserve-model-materials.patch"
+  },
+  "runtime_target": "TotK Recomp 0.2.1, tested on game 1.2.1"
+}
