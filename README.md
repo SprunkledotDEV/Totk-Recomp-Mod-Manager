@@ -1,3 +1,5 @@
+WARNING: This project is a temporary dud for mod support, it probably will be abandoned when the original recomp dev adds the support for modding.
+
 # TotK Recomp Mod Manager
 
 A standalone Windows mod manager for **TotK Recomp**, with a local mod library,
@@ -37,7 +39,7 @@ your own compiled TotK Recomp installation.
 
 ## Use
 
-1. Build a distribution as described in [BUILDING.md](BUILDING.md).
+1. Install and extract the release ZIP anywhere on your PC (preferrably on the same disk as your Totk Recomp build)
 2. Open **Mod Manager.exe** and select the folder containing `totk.exe` and
    `romfs/index.json`.
 3. Import mods, tick the ones you want, and arrange the load order. Lower entries
