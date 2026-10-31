@@ -1,5 +1,7 @@
 WARNING: This project is a temporary dud for mod support, it probably will be abandoned when the original recomp dev adds the support for modding.
 
+The entire project was coded using GPT-6 Astra and is under MIT license!!
+
 # TotK Recomp Mod Manager
 
 A standalone Windows mod manager for **TotK Recomp**, with a local mod library,
